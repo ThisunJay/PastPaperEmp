@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PastPaperEmp</string>
+    <string name="addEmpBtn">Add Employee</string>
+    <string name="editEmpBtn">Edit Employee</string>
+    <string name="searchEmpBtn">Search Employee</string>
+    <string name="textView">Name</string>
+    <string name="textView2">Telephone</string>
+    <string name="textView3">Email</string>
+    <string name="textView4">Gender</string>
+    <string name="textView5">Employee Type</string>
+    <string name="addEmp">Add Employee</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="nameAE">Name</string>
+    <string name="editBtn">Edit Employee</string>
+    <string name="textView6">Emp ID</string>
+    <string name="empIDEE">Emp No</string>
+    <string name="searchBtn">Search</string>
+    <string name="textView7">Employee Type</string>
+
+    <string-array name="empType">
+        <item>Permanent</item>
+        <item>Temporary</item>
+    </string-array>
+</resources>
